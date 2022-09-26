@@ -10,7 +10,7 @@ import org.springframework.web.servlet.view.RedirectView;
 import java.util.List;
 
 @RestController
-@RequestMapping("/empresas")
+@RequestMapping("/Empresas")
 public class EmpresaController {
     public EmpresaService empresaService;
 
